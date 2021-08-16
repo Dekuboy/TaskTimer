@@ -1,4 +1,4 @@
-# TaskTimer WINDDOWS 32x APPLICATION
+# TaskTimer WINDOWS 32x APPLICATION
 Records time taken during a task and uploads to aa .csv
 
 # To Use:
