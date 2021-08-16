@@ -1,5 +1,7 @@
 # TaskTimer WINDOWS 32x APPLICATION
-Records time taken during a task and uploads to aa .csv
+Records time taken during a task and uploads to a .csv
+
+github: https://github.com/Dekuboy/TaskTimer
 
 # To Use:
 !! Make sure the TASK_TIMES file is not in use !!
